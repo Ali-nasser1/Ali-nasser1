@@ -21,13 +21,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://www.learn-c.org/)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://cplusplus.com/)
+[![My Skills](https://skillicons.dev/icons?i=cs&theme=light)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps)
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://www.html.com/)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=net&theme=dark)](https://dotnet.microsoft.com)
 [![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io/)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com/)
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org/)
+[![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.linux.org/)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.microsoft.com/en-eg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofergavrilov&theme=github_dark&layout=compact&hide_border=true" /></a> 
 
