@@ -24,7 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://www.html.com/)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/)
-
 [![My Skills](https://skillicons.dev/icons?i=net&theme=dark)](https://dotnet.microsoft.com)
 [![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io/)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com/)
