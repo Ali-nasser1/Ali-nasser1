@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alixeid&label=Profile%20views&color=0e75b6&style=flat" alt="alixeid" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alibeneid" target="blank"><img src="https://img.shields.io/twitter/follow/alibeneid?logo=twitter&style=for-the-badge" alt="alibeneid" /></a> </p>
-
 - 💬 Ask me about **competitive programming**
 
 - 📫 How to reach me **its.ali.nasser@gmail.com**
